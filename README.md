@@ -1,7 +1,7 @@
 # Culinary Canvas - Indian Traditional Recipe Sharing Website
 
 ### Demo
-[Live Demo](#) (Include link to your hosted site or demo)
+[Live Demo](#) (https://rahulkumar2112k.github.io/Culinary-Canvas/)
 
 ### Project Overview
 **Culinary Canvas** is a prototype Indian traditional recipe-sharing platform. It allows users to explore and share recipes from various Indian regions, focusing on the rich culinary heritage of the country. The project is built using HTML, CSS, and JavaScript, with a focus on responsive design and clean user interaction.
